@@ -6,7 +6,7 @@ Polyfact helps devs with (1) an SDK to help build those packages, (2) sharing th
 
 ## Usage
 
-All the packages run with the Polyfact API and use the Node SDK to do so. This means you need to get an API Key [here](https://app.polyfact.com), and then export it or save it in your `.env`.
+All the packages run with the Polyfact API and use the [Node.js SDK](https://www.npmjs.com/package/polyfact) to do so. This means you need to get an API Key [here](https://app.polyfact.com), and then export it or save it in your `.env`.
 
 `export POLYFACT_TOKEN=[YOUR_API_KEY]`
 
