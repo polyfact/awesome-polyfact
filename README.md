@@ -14,3 +14,4 @@ All the packages run with the Polyfact API and use the [Node.js SDK](https://www
 
 - [ai-logger](https://github.com/kevin-btc/ai-logger): use console.ai() to make your errors readable & understandable.
 - [ai-docs](https://github.com/polyfact/ai-docs): set of functions to generate references, folder summaries and a getting started for a repository.
+- [ai-tests](https://github.com/lowczarc/ai-tests): CLI to generate boilerplate for your unit tests.
