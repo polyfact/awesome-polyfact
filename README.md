@@ -1,4 +1,4 @@
-# Polyfact Library
+# PolyFact Library
 
 Polyfact is an Open Source Library of LLM-based dev tool packages.
 
