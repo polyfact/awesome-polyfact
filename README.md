@@ -19,3 +19,8 @@ All the packages run with the Polyfact API and use the [Node.js SDK](https://www
 - [simple-ai-agent](https://github.com/polyfact/simple-ai-agent): A very simple AI agent that can search on wikipedia and perform calculations.
 - [question-asker](https://github.com/victorforissier/question-asker): Your AI teacher. Asks questions about physics that you have to answer.
 - [dockerfile-ai-generator](https://github.com/lowczarc/dockerfile-ai-generator): Automatically generate a Dockerfile for a repository
+
+
+## VS-Code extensions
+
+- [TalkWithCode](https://marketplace.visualstudio.com/items?itemName=Polyfactdocs.talk-with-code): Turn your codebase into an interactive dialogue with this extension.
