@@ -23,4 +23,4 @@ All the packages run with the Polyfact API and use the [Node.js SDK](https://www
 
 ## VS-Code extensions
 
-- [TalkWithCode](https://marketplace.visualstudio.com/items?itemName=Polyfactdocs.talk-with-code): Turn your codebase into an interactive dialogue with this extension.
+- [talk-with-code](https://marketplace.visualstudio.com/items?itemName=Polyfactdocs.talk-with-code): Turn your codebase into an interactive dialogue with this extension.
