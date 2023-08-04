@@ -24,3 +24,7 @@ All the packages run with the Polyfact API and use the [Node.js SDK](https://www
 ## VS-Code extensions
 
 - [talk-with-code](https://marketplace.visualstudio.com/items?itemName=Polyfactdocs.talk-with-code): Turn your codebase into an interactive dialogue with this extension.
+
+## Chatbots
+
+- [@Voice2Article](https://github.com/lowczarc/voice2article/): A telegram bot that transform an audio recording of you rambling about a random subject into a complete blog articles. 
