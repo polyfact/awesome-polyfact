@@ -15,6 +15,7 @@ All the packages run with the Polyfact API and use the [Node.js SDK](https://www
 - [console-ai](https://github.com/kevin-btc/console-ai): use console.ai() to make your errors readable & understandable.
 - [ai-docs](https://github.com/polyfact/ai-docs): set of functions to generate references, folder summaries and a getting started for a repository.
 - [ai-tests](https://github.com/lowczarc/ai-tests): CLI to generate boilerplate for your unit tests.
+- [ai-todo](https://github.com/lowczarc/ai-tests](https://www.npmjs.com/package/ai-todo): CLI to generate TODOs and suggestions for your code.
 - [code-vectorizer](https://github.com/kevin-btc/code-vectorizer): Allow to embed/vectorize an entire codebase.
 - [simple-ai-agent](https://github.com/polyfact/simple-ai-agent): A very simple AI agent that can search on wikipedia and perform calculations.
 - [question-asker](https://github.com/victorforissier/question-asker): Your AI teacher. Asks questions about physics that you have to answer.
