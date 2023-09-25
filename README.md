@@ -32,8 +32,8 @@ All the packages run with the PolyFact API and use the [Node.js SDK](https://www
 
 ## Boilerplates 
 
-- [polyfact-use-agent-boilerplate](https://github.com/polyfact/polyfact-use-agent-boilerplate): Boilerplate that use the useAgent Polyfact hook.
-- [polyfact-chat-nextjs-boilerplate](https://github.com/polyfact/polyfact-chat-nextjs-boilerplate): Boilerplate to create easily a chat using polyfact for nextjs in few second.
-- [polyfact-chat-react-boilerplate](https://github.com/polyfact/polyfact-chat-react-boilerplate): Boilerplate to create easily a chat using polyfact for React/vite in few second.
+- [polyfact-use-agent-boilerplate](https://github.com/polyfact/polyfact-use-agent-boilerplate): Boilerplate that uses the useAgent Polyfact hook.
+- [polyfact-chat-nextjs-boilerplate](https://github.com/polyfact/polyfact-chat-nextjs-boilerplate): Boilerplate that can be used to easily create a chat using polyfact for nextjs in few seconds.
+- [polyfact-chat-react-boilerplate](https://github.com/polyfact/polyfact-chat-react-boilerplate): Boilerplate that can be used to easily create a chat using polyfact for React/vite in few second.
 
   
